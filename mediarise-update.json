@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 25,
-  "versionName": "1.0.25",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.25/mediarise-release-1.0.25.apk",
-  "apkSha256": "a84c0f259cfd242877d134ecf468797f1bed6b6dfa6d89cb6daa08b5925d82cf",
-  "apkSize": 3431722,
-  "releaseNotes": "Give the three base routines something to prescribe",
-  "publishedAt": "2026-08-18T19:43:30.875Z"
+  "versionCode": 26,
+  "versionName": "1.0.26",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.26/mediarise-release-1.0.26.apk",
+  "apkSha256": "a91ac5c19c607339621747fdc266097f4a446840cf790991cbfce87d33aec014",
+  "apkSize": 3434534,
+  "releaseNotes": "Let missions be created and managed from the phone",
+  "publishedAt": "2026-08-18T21:28:08.027Z"
 }
