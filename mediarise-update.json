@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 19,
-  "versionName": "1.0.19",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.19/mediarise-release-1.0.19.apk",
-  "apkSha256": "d5795850ea811a10f540a42069df0f729f71d198a0c91c6952c9cd5068fdcc44",
-  "apkSize": 3402726,
-  "releaseNotes": "Refuse to publish anything the build did not vouch for",
-  "publishedAt": "2026-08-18T13:57:49.864Z"
+  "versionCode": 21,
+  "versionName": "1.0.21",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.21/mediarise-release-1.0.21.apk",
+  "apkSha256": "ca2125337a3e7d1438a9d5adcdeb637f833a6a8fe1a5ee595eb0f2322eef19b2",
+  "apkSize": 3402758,
+  "releaseNotes": "Record the channel as live and how to publish into it",
+  "publishedAt": "2026-08-18T14:17:51.102Z"
 }
