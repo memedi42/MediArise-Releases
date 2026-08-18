@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 21,
-  "versionName": "1.0.21",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.21/mediarise-release-1.0.21.apk",
-  "apkSha256": "ca2125337a3e7d1438a9d5adcdeb637f833a6a8fe1a5ee595eb0f2322eef19b2",
+  "versionCode": 22,
+  "versionName": "1.0.22",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.22/mediarise-release-1.0.22.apk",
+  "apkSha256": "60bfb42efbb478aef88af15f3886e9faf60fe382440ef89c84fe2de23315b589",
   "apkSize": 3402758,
-  "releaseNotes": "Record the channel as live and how to publish into it",
-  "publishedAt": "2026-08-18T14:17:51.102Z"
+  "releaseNotes": "Note that the cold start is behind us",
+  "publishedAt": "2026-08-18T14:32:53.567Z"
 }
