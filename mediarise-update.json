@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 26,
-  "versionName": "1.0.26",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.26/mediarise-release-1.0.26.apk",
-  "apkSha256": "a91ac5c19c607339621747fdc266097f4a446840cf790991cbfce87d33aec014",
-  "apkSize": 3434534,
-  "releaseNotes": "Let missions be created and managed from the phone",
-  "publishedAt": "2026-08-18T21:28:08.027Z"
+  "versionCode": 30,
+  "versionName": "1.0.30",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.30/mediarise-release-1.0.30.apk",
+  "apkSha256": "94c873b62a0ccd43cf8d036a2df5be0dc17bbe5077a953eac46f517710c34a10",
+  "apkSize": 3492490,
+  "releaseNotes": "Hand the build its Supabase config",
+  "publishedAt": "2026-08-19T10:28:34.980Z"
 }
