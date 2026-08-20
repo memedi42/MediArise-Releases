@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 30,
-  "versionName": "1.0.30",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.30/mediarise-release-1.0.30.apk",
-  "apkSha256": "94c873b62a0ccd43cf8d036a2df5be0dc17bbe5077a953eac46f517710c34a10",
-  "apkSize": 3492490,
-  "releaseNotes": "Hand the build its Supabase config",
-  "publishedAt": "2026-08-19T10:28:34.980Z"
+  "versionCode": 48,
+  "versionName": "1.0.48",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.48/mediarise-release-1.0.48.apk",
+  "apkSha256": "8537ca21f829e1c205ba6081017c80643fa8d4a989226e36bbb32a60b4f3ce02",
+  "apkSize": 3521876,
+  "releaseNotes": "Record when a mission was finished, instead of guessing from updatedAt",
+  "publishedAt": "2026-08-20T11:06:55.653Z"
 }
