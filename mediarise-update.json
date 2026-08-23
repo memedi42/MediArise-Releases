@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 48,
-  "versionName": "1.0.48",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.48/mediarise-release-1.0.48.apk",
-  "apkSha256": "8537ca21f829e1c205ba6081017c80643fa8d4a989226e36bbb32a60b4f3ce02",
-  "apkSize": 3521876,
-  "releaseNotes": "Record when a mission was finished, instead of guessing from updatedAt",
-  "publishedAt": "2026-08-20T11:06:55.653Z"
+  "versionCode": 52,
+  "versionName": "1.0.52",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.52/mediarise-release-1.0.52.apk",
+  "apkSha256": "e3bd6bd5d830aeb9a13583261ae4a2f8d6c945d13595afb6f9026187402e0feb",
+  "apkSize": 3527984,
+  "releaseNotes": "Show progress from the ledger, and stop showing two different levels",
+  "publishedAt": "2026-08-23T20:49:46.583Z"
 }
