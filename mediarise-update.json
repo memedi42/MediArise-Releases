@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 52,
-  "versionName": "1.0.52",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.52/mediarise-release-1.0.52.apk",
-  "apkSha256": "e3bd6bd5d830aeb9a13583261ae4a2f8d6c945d13595afb6f9026187402e0feb",
-  "apkSize": 3527984,
-  "releaseNotes": "Show progress from the ledger, and stop showing two different levels",
-  "publishedAt": "2026-08-23T20:49:46.583Z"
+  "versionCode": 53,
+  "versionName": "1.0.53",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.53/mediarise-release-1.0.53.apk",
+  "apkSha256": "f5d3f404ac779f1a6a61581cb28421299224619cd695641339098d6e09fd0ce9",
+  "apkSize": 3534400,
+  "releaseNotes": "Nuevo capítulo: Camino de Santiago Portugués 2026. Recorre con Alberto y Ester las etapas desde Tui hasta Santiago y completa una nueva misión cada día.",
+  "publishedAt": "2026-08-29T16:36:26.419Z"
 }
