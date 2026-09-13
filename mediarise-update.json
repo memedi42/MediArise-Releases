@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 53,
-  "versionName": "1.0.53",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.53/mediarise-release-1.0.53.apk",
-  "apkSha256": "f5d3f404ac779f1a6a61581cb28421299224619cd695641339098d6e09fd0ce9",
-  "apkSize": 3534400,
-  "releaseNotes": "Nuevo capítulo: Camino de Santiago Portugués 2026. Recorre con Alberto y Ester las etapas desde Tui hasta Santiago y completa una nueva misión cada día.",
-  "publishedAt": "2026-08-29T16:36:26.419Z"
+  "versionCode": 63,
+  "versionName": "1.0.63",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.63/mediarise-release-1.0.63.apk",
+  "apkSha256": "cd05a5c5f71c182cf4b591afce79a5e7bbce93cd8ef43252fc6d0a241f2a2be4",
+  "apkSize": 3547588,
+  "releaseNotes": "Templo del Acero: editor móvil simplificado, drops y AMRAP integrados, historial comparativo y finalización de ejercicios.",
+  "publishedAt": "2026-09-13T12:29:35.739Z"
 }
