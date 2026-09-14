@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 63,
-  "versionName": "1.0.63",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.63/mediarise-release-1.0.63.apk",
-  "apkSha256": "cd05a5c5f71c182cf4b591afce79a5e7bbce93cd8ef43252fc6d0a241f2a2be4",
-  "apkSize": 3547588,
-  "releaseNotes": "Templo del Acero: editor móvil simplificado, drops y AMRAP integrados, historial comparativo y finalización de ejercicios.",
-  "publishedAt": "2026-09-13T12:29:35.739Z"
+  "versionCode": 78,
+  "versionName": "1.0.78",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.78/mediarise-release-1.0.78.apk",
+  "apkSha256": "fffde8ca579c4f6a5b0403d1583ddb5e56f91be242e9dc70880f446207b275c2",
+  "apkSize": 3561276,
+  "releaseNotes": "Sincronización segura entre dispositivos y recuperación de conflictos",
+  "publishedAt": "2026-09-14T16:51:15.406Z"
 }
