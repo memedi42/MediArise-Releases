@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 78,
-  "versionName": "1.0.78",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.78/mediarise-release-1.0.78.apk",
-  "apkSha256": "fffde8ca579c4f6a5b0403d1583ddb5e56f91be242e9dc70880f446207b275c2",
-  "apkSize": 3561276,
-  "releaseNotes": "Sincronización segura entre dispositivos y recuperación de conflictos",
-  "publishedAt": "2026-09-14T16:51:15.406Z"
+  "versionCode": 83,
+  "versionName": "1.0.83",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.83/mediarise-release-1.0.83.apk",
+  "apkSha256": "5b52e23ef93a7de89af989a8ca5c827d67000f5f1480444f79f07480f3d5e72e",
+  "apkSize": 3563388,
+  "releaseNotes": "Día de guardia y portada móvil compacta",
+  "publishedAt": "2026-09-17T14:20:16.230Z"
 }
