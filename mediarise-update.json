@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 85,
-  "versionName": "1.0.85",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.85/mediarise-release-1.0.85.apk",
-  "apkSha256": "225e937e6f4d4f58aea8a7c71faaec9689c64530a1315ad42d43d3dd373fa6d6",
-  "apkSize": 3564456,
-  "releaseNotes": "Sueño registrable en días de guardia",
-  "publishedAt": "2026-09-17T18:57:31.556Z"
+  "versionCode": 88,
+  "versionName": "1.0.88",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.88/mediarise-release-1.0.88.apk",
+  "apkSha256": "a0d318f62c9c87790200ddf983ba425d37f4daa69a8831027a1b79f22f28e55c",
+  "apkSize": 3566124,
+  "releaseNotes": "Edición segura de misiones activas",
+  "publishedAt": "2026-09-18T20:50:49.471Z"
 }
