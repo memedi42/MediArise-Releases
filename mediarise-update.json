@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 96,
-  "versionName": "1.0.96",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.96/mediarise-release-1.0.96.apk",
-  "apkSha256": "cd19b17cd0f62b0c2d2a7aa9c1b0bd3f9112cd8fca37804565609f7eae5c2a2b",
-  "apkSize": 3573552,
-  "releaseNotes": "Mapa visual de Misiones y filtros persistentes",
-  "publishedAt": "2026-09-19T12:16:55.694Z"
+  "versionCode": 103,
+  "versionName": "1.0.103",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.103/mediarise-release-1.0.103.apk",
+  "apkSha256": "9f7bc816985cf069fc0420708b0196130531fa3343537124bb70891ec0e7f260",
+  "apkSize": 3578688,
+  "releaseNotes": "Cierre, evolución y experiencia del Templo",
+  "publishedAt": "2026-09-19T15:06:03.750Z"
 }
