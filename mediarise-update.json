@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 88,
-  "versionName": "1.0.88",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.88/mediarise-release-1.0.88.apk",
-  "apkSha256": "a0d318f62c9c87790200ddf983ba425d37f4daa69a8831027a1b79f22f28e55c",
-  "apkSize": 3566124,
-  "releaseNotes": "Edición segura de misiones activas",
-  "publishedAt": "2026-09-18T20:50:49.471Z"
+  "versionCode": 96,
+  "versionName": "1.0.96",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.96/mediarise-release-1.0.96.apk",
+  "apkSha256": "cd19b17cd0f62b0c2d2a7aa9c1b0bd3f9112cd8fca37804565609f7eae5c2a2b",
+  "apkSize": 3573552,
+  "releaseNotes": "Mapa visual de Misiones y filtros persistentes",
+  "publishedAt": "2026-09-19T12:16:55.694Z"
 }
