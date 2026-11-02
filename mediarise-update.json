@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 162,
-  "versionName": "1.0.162",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.162/mediarise-release-1.0.162.apk",
-  "apkSha256": "9fd5eaef0b5fd42adadef3542bc73a348233255ec9de1b472fffdd08f13896df",
-  "apkSize": 3624416,
-  "releaseNotes": "Templo: ejercicios personalizados, edición durante la sesión y reutilización segura de rutinas.",
-  "publishedAt": "2026-09-27T18:58:51.532Z"
+  "versionCode": 175,
+  "versionName": "1.0.175",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.175/mediarise-release-1.0.175.apk",
+  "apkSha256": "47d9e4da9f514bc3d3a5eb8b51d58f4948912b4fa99123fd0bba4be42fc433a1",
+  "apkSize": 3632408,
+  "releaseNotes": "Misiones V3.3: árbol organizable, papeleras y organización del visor",
+  "publishedAt": "2026-11-02T11:15:01.550Z"
 }
