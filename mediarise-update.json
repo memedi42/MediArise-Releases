@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 181,
-  "versionName": "1.0.181",
-  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.181/mediarise-release-1.0.181.apk",
-  "apkSha256": "cb96e1743f9cffdbaa421bb9ab288fe5f0ef947c2915470c4814bd1c02f118fa",
-  "apkSize": 3637944,
-  "releaseNotes": "Templo: resumen de entrenamiento, evolución y logros de sesión.",
-  "publishedAt": "2026-11-02T15:04:44.147Z"
+  "versionCode": 187,
+  "versionName": "1.0.187",
+  "apkUrl": "https://github.com/memedi42/MediArise-Releases/releases/download/v1.0.187/mediarise-release-1.0.187.apk",
+  "apkSha256": "7d3b67aa290e434a8946e6fe86c23ec984c3cc4669c74522708ee4dd77a4b721",
+  "apkSize": 3646564,
+  "releaseNotes": "Misiones: árbol a pantalla completa, modo limpio y navegación mejorada.",
+  "publishedAt": "2026-11-08T19:07:43.448Z"
 }
